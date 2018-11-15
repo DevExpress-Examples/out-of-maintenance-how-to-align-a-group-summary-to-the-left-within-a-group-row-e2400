@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Window1.xaml](./CS/LeftAlignSummary/Window1.xaml) (VB: [Window1.xaml](./VB/LeftAlignSummary/Window1.xaml))
+* [Window1.xaml.cs](./CS/LeftAlignSummary/Window1.xaml.cs) (VB: [Window1.xaml](./VB/LeftAlignSummary/Window1.xaml))
+<!-- default file list end -->
 # How to align a group summary to the left within a group row
 
 
